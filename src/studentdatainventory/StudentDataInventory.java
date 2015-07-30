@@ -15,6 +15,7 @@ public class StudentDataInventory {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("updated By Sunil");
         // TODO code application logic here
     }
     
