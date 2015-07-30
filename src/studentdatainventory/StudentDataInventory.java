@@ -16,6 +16,7 @@ public class StudentDataInventory {
      */
     public static void main(String[] args) {
         System.out.println("updated By Sunil");
+        System.out.println("Updated By Tarun");
         // TODO code application logic here
     }
     
